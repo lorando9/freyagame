@@ -2,7 +2,7 @@
 title: "Cabernet Crimebrands And Builds Path To Nowhere"
 description: Cabernet Crimebrands And Builds Path To Nowhere
 slug: Cabernet Crimebrands And Builds Path To Nowhere
-categories: Cabarnet
+categories: Path To Nowhere
 date: 2023-10-12T17:19:50Z
 image: cabarnetptn.webp
 hidden: false
