@@ -4,9 +4,7 @@ description: Mantis Crimebrands Path To Nowhere
 slug: Mantis Crimebrands Path To Nowhere
 categories: Path To Nowhere
 date: 2023-11-29T23:31:32Z
-image: 
-math: 
-license: 
+image: mantisptn.jpg
 hidden: false
 comments: false
 draft: false
@@ -42,7 +40,7 @@ Giving voice to this captivating character is Wang Yanhua (王燕华), providing
 
 | Level | HP  | Attack | Defense | MRes | Block | Speed |
 |-------|----|--------|---------|------|-------|-------|
-| 10    | 1012 | 1248   | 189     | 92   | 88    | 1     |
+| 10    | 1012 | 1248   | 189     | 92   | 1    | 1     |
 | 20    | 1511 | 229    | 111     | 107  | 1     | 1     |
 | 30    | 1995 | 302    | 147     | 141  | 1     | 1     |
 | 40    | 2258 | 342    | 166     | 159  | 1     | 1     |
